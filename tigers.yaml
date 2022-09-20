@@ -1,2 +1,6 @@
 hello
-bye
+<<<<<<< HEAD
+  bye
+  =======
+halo
+>>>>>>> 16cea14925a4e796b45c81f94e4b489e48ae45ee
